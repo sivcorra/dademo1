@@ -1,1 +1,4 @@
 /* add global styles that can be loaded post LCP here */
+h1 {
+    border: 3px solid red;
+}
