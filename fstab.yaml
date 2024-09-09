@@ -1,6 +1,9 @@
 mountpoints:
   # /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
-  /: https://drive.google.com/drive/u/1/folders/1krEX1Is4C_GLEPOHB6Ixk8894wnxQZ5Z
+  # /: https://drive.google.com/drive/u/1/folders/1krEX1Is4C_GLEPOHB6Ixk8894wnxQZ5Z
+  /:
+    url: https://content.da.live/sivcorra/dademo1/
+    type: markup
 
 folders:
   /products/: /products/default
